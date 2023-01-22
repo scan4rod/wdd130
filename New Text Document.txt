@@ -5,3 +5,7 @@ https://scan4rod.github.io/wdd130/wwr/site-plan-rafting.html
 
 
 https://github.com/scan4rod/wdd130/blob/master/wwr/site-plan-rafting.html
+
+SEMANTIC ELEMENTS IN HTML:
+	https://www.w3schools.com/html/html5_semantic_elements.asp
+
