@@ -1,0 +1,1 @@
+div, p, article, section, h1-h6, ol, ul, li, form, main, and nav.

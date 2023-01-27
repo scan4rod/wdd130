@@ -6,6 +6,23 @@ https://scan4rod.github.io/wdd130/wwr/site-plan-rafting.html
 
 https://github.com/scan4rod/wdd130/blob/master/wwr/site-plan-rafting.html
 
+week3:
 SEMANTIC ELEMENTS IN HTML:
 	https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://placeimg.com/
+
+https://coolors.co/
+
+
+	<img src="https://placeimg.com/320/240/animals" /> 
+This would give you a random image that was 320px X 240px large.
+
+VALIDATORS:
+https://validator.w3.org/
+
+https://jigsaw.w3.org/css-validator/
+
+FLOWCHART:
+http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
 
