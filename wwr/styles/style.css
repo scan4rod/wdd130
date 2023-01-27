@@ -3,9 +3,7 @@
     margin: 0 auto;
    
 }
-* {
-    border: 2px solid blue;
-}
+
 #hero-msg h1, #hero-msg h4, .button-box, main section {
     text-align: center;
 }
