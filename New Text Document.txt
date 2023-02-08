@@ -2,7 +2,11 @@ https://github.com/scan4rod/wdd130
 
 
 https://scan4rod.github.io/wdd130/wwr/site-plan-rafting.html
+https://scan4rod.github.io/wdd130/wwr/index.html
 
+* {
+    border: 2px solid blue;
+}
 
 https://github.com/scan4rod/wdd130/blob/master/wwr/site-plan-rafting.html
 
